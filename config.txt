@@ -1,0 +1,5 @@
+query=пальто из натуральной шерсти
+limit=100
+min_rating=4.5
+max_price=10000
+country=Россия
